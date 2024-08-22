@@ -5,9 +5,11 @@ implementação de funcionalidades essenciais como cadastro, edição, exclusão
 gerenciamento de vendas e produtos. O design segue o padrão MVC (Model-View-Controller).
 
 Tela de Login:
+
 ![Imagem do WhatsApp de 2024-08-22 à(s) 01 13 09_312c8a59](https://github.com/user-attachments/assets/69a04471-42f8-444d-8438-74e09411a7f7)
 
 Tela Home:
+
 ![Imagem do WhatsApp de 2024-08-22 à(s) 01 16 17_f8f7c029](https://github.com/user-attachments/assets/fba3c29a-48c8-482a-9a3a-6b7848f18d31)
 
 Tela de Produtos com suas Funcionalidades:
