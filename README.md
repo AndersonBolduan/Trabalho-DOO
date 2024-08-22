@@ -1,5 +1,7 @@
 Integrantes do grupo: Manoela Fernandes Simão, Anderson Felipi Bolduan, Patriki de Oliveira Góss, Matheus Samuel Baena Soares, Luana Alvarenga Valim
+
 Instituição de Ensino: Instituto Federal De Santa Catarina - Câmpus Lages
+
 Disciplina: Desenvolvimento de Sistemas Orientado a Objetos
 
 Este protótipo é uma aplicação voltada ao gerenciamento de vendas, desenvolvida em Java e 
