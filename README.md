@@ -10,6 +10,19 @@ orientada a objetos (OO) e emprega JDBC para a interação com um banco de dados
 implementação de funcionalidades essenciais como cadastro, edição, exclusão e pesquisa, bem como o 
 gerenciamento de vendas e produtos. O design segue o padrão MVC (Model-View-Controller).
 
+Configuração Banco de Dados
+O arquivo responsável pela conexão com o banco de dados MySQL é o conexaoMysql.java. Para configurar as credenciais, siga as etapas abaixo:
+
+1.Acesse o arquivo conexaoMysql.java:
+	*Localize o arquivo dentro do diretório `src\main\java\model\conexao\`.
+
+2.Edite as seguintes variáveis com as credenciais do seu servidor:
+	*`url`: O URL de conexão do banco de dados, geralmente no formato jdbc:mysql://<servidor>:<porta>/<nome_do_banco>.
+	*`user`: O nome de usuário do banco de dados.
+	*`password`: A senha do banco de dados
+
+3.Salve as alterações e certifique-se de que as credenciais estão corretas e correspondem ao seu servidor MySQL.
+
 Tela de Login:
 
 ![Imagem do WhatsApp de 2024-08-22 à(s) 01 13 09_312c8a59](https://github.com/user-attachments/assets/69a04471-42f8-444d-8438-74e09411a7f7)
