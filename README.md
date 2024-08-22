@@ -3,8 +3,25 @@ utilizando a biblioteca Swing para a interface gráfica. A aplicação adota pri
 orientada a objetos (OO) e emprega JDBC para a interação com um banco de dados MySQL, permitindo a 
 implementação de funcionalidades essenciais como cadastro, edição, exclusão e pesquisa, bem como o 
 gerenciamento de vendas e produtos. O design segue o padrão MVC (Model-View-Controller).
-![IMG-20240822-WA0013](https://github.com/user-attachments/assets/38c92474-dfc3-4c6d-8365-f08c6ddb0afb)
 
+Tela de Login:
+![Imagem do WhatsApp de 2024-08-22 à(s) 01 13 09_312c8a59](https://github.com/user-attachments/assets/69a04471-42f8-444d-8438-74e09411a7f7)
 
-<img src="C:\Users\ander\Downloads\gestao-de-venda\IMG-20240822-WA0012.jpg" alt="Texto Alternativo">
+Tela Home:
+![Imagem do WhatsApp de 2024-08-22 à(s) 01 16 17_f8f7c029](https://github.com/user-attachments/assets/fba3c29a-48c8-482a-9a3a-6b7848f18d31)
 
+Tela de Produtos com suas Funcionalidades:
+![Imagem do WhatsApp de 2024-08-22 à(s) 01 16 17_bbaa173c](https://github.com/user-attachments/assets/61cc0c6c-31d7-494a-ab68-0525c60e445a)
+![Imagem do WhatsApp de 2024-08-22 à(s) 01 13 08_16449a98](https://github.com/user-attachments/assets/502b162b-8a76-400d-9977-48fe4e8f6c4f)
+
+Tela de Clientes com suas funcionalidades:
+![Imagem do WhatsApp de 2024-08-22 à(s) 01 16 17_56f1bfe8](https://github.com/user-attachments/assets/cfe04cdc-0129-4adc-9850-3022e7fee3a0)
+![Imagem do WhatsApp de 2024-08-22 à(s) 01 13 07_484915e2](https://github.com/user-attachments/assets/14518a30-6969-422b-bb23-b3e5f6d546a8)
+
+Tela de Vendas com suas funcionalidades:
+![Imagem do WhatsApp de 2024-08-22 à(s) 01 16 18_d9581283](https://github.com/user-attachments/assets/b666a445-6f73-45ef-af8a-5f2fffb340ba)
+![Imagem do WhatsApp de 2024-08-22 à(s) 01 13 08_5ae6729e](https://github.com/user-attachments/assets/ccb1bad7-26e3-4aa9-b929-e109f3892001)
+
+Tela de Usuários com suas funcionalidades:
+![Imagem do WhatsApp de 2024-08-22 à(s) 01 16 17_16304f15](https://github.com/user-attachments/assets/82091198-466c-4ba3-a38e-6ccc256ff6bb)
+![Imagem do WhatsApp de 2024-08-22 à(s) 01 13 07_289062c7](https://github.com/user-attachments/assets/f8bd5f89-f389-4917-985d-093012f62edd)
